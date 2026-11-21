@@ -1,0 +1,1022 @@
+
+{
+  "characters": {
+    "deacon": {
+      "name": "Deacon",
+      "aliases": ["Deacon St. John", "Deek", "Deac"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มกลาง แหบเล็กน้อย มีความหนักแน่น",
+      "personality": "อดีตสมาชิก Mongrels MC เป็นนักขี่มอเตอร์ไซค์ที่แข็งแกร่ง รักพวกพ้องและพร้อมทำทุกอย่างเพื่อคนที่รัก",
+      "voice_id": null,
+      "speaking_style": "พูดตรง เป็นธรรมชาติ ใช้ภาษาห้วนแบบนักขี่มอเตอร์ไซค์ มีอารมณ์ประชดประชัน",
+      "default_emotion": "serious"
+    },
+    "sarah": {
+      "name": "Sarah",
+      "aliases": ["Sarah Whitaker", "Dr. Whitaker", "Whitaker"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางนุ่ม ชัดเจน มีความสุขุม",
+      "personality": "ภรรยาของ Deacon เป็นนักวิจัยที่มีความฉลาด มุ่งมั่นและให้ความสำคัญกับงานวิทยาศาสตร์",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจน สุภาพ มีความมั่นใจและจริงจังเมื่อพูดเรื่องงานวิจัย",
+      "default_emotion": "calm"
+    },
+    "boozer": {
+      "name": "Boozer",
+      "aliases": ["William Boozer Gray", "William Gray", "Boozeman"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มลึก แหบหยาบ มีความหนักแน่น",
+      "personality": "เพื่อนสนิทของ Deacon สมาชิก Mongrels MC ซื่อสัตย์ รักพวกพ้องและมีความกล้าหาญ",
+      "voice_id": null,
+      "speaking_style": "พูดตรง ใช้ภาษานักขี่มอเตอร์ไซค์ มีอารมณ์ขันและน้ำเสียงจริงใจ",
+      "default_emotion": "neutral"
+    },
+    "mark_copeland": {
+      "name": "Copeland",
+      "aliases": ["Mark Copeland", "Cope", "Copeland"],
+      "voice_description": "เสียงชายวัยกลางคน ทุ้มแหบ มีความหยาบและแห้งเล็กน้อย",
+      "personality": "นักพูดและผู้จัดรายการวิทยุ Radio Free Oregon ไม่ไว้ใจรัฐบาลและชอบตั้งคำถามกับสังคม",
+      "voice_id": null,
+      "speaking_style": "พูดยาว ชอบบ่น วิจารณ์สังคม มีความมั่นใจและประชดประชัน",
+      "default_emotion": "skeptical"
+    },
+    "ada_tucker": {
+      "name": "Tucker",
+      "aliases": ["Ada Tucker", "Tuck"],
+      "voice_description": "เสียงหญิงสูงวัย โทนกลางค่อนไปทางทุ้ม แหบเล็กน้อย แข็งและมีอำนาจ",
+      "personality": "หัวหน้าค่าย Hot Springs เด็ดขาด เข้มงวดและให้ความสำคัญกับแรงงาน",
+      "voice_id": null,
+      "speaking_style": "พูดตรง ออกคำสั่งชัดเจน น้ำเสียงกดดัน",
+      "default_emotion": "stern"
+    },
+    "alkai_turner": {
+      "name": "Alkai",
+      "aliases": ["Alkai Turner"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม แหบเล็กน้อย",
+      "personality": "พ่อค้าอาวุธประจำ Hot Springs มีความระมัดระวังและเป็นมืออาชีพ",
+      "voice_id": null,
+      "speaking_style": "พูดสั้น กระชับ เป็นกันเองแบบพ่อค้า",
+      "default_emotion": "neutral"
+    },
+    "raymond_skizzo": {
+      "name": "Skizzo",
+      "aliases": ["Raymond Skizzo", "Raymond Sarkozi", "Sarkozi"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางค่อนข้างสูง มีความคมและแหบเล็กน้อย",
+      "personality": "ฉลาด เจ้าเล่ห์ เห็นแก่ตัว ชอบควบคุมสถานการณ์และเอาตัวรอด",
+      "voice_id": null,
+      "speaking_style": "พูดคล่อง ใช้คำพูดโน้มน้าว ประชดประชันและแสดงความเป็นมิตรแบบไม่จริงใจ",
+      "default_emotion": "confident"
+    },
+    "james_obrian": {
+      "name": "O'Brian",
+      "aliases": ["James O'Brian", "Brian", "NERO Researcher"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางนุ่ม สุภาพและแฝงความเหนื่อยล้า",
+      "personality": "นักวิจัย NERO สุภาพ ฉลาด ระมัดระวังและมีความลับ",
+      "voice_id": null,
+      "speaking_style": "พูดชัด สุภาพ ใช้ศัพท์ทางวิทยาศาสตร์และมีจังหวะหยุดคิด",
+      "default_emotion": "calm"
+    },
+    "matthew_garret": {
+      "name": "Garret",
+      "aliases": ["Colonel Garret", "Matthew Garret", "Colonel"],
+      "voice_description": "เสียงชายสูงวัย ทุ้มลึก กังวาน หนักแน่นและทรงอำนาจ",
+      "personality": "ผู้นำ Deschutes County Militia เคร่งศาสนาและเชื่อมั่นในอุดมการณ์ของตนเอง",
+      "voice_id": null,
+      "speaking_style": "พูดช้า มีน้ำหนัก คล้ายการเทศนาและออกคำสั่งเด็ดขาด",
+      "default_emotion": "authoritative"
+    },
+    "derrick_kouri": {
+      "name": "Kouri",
+      "aliases": ["Captain Derrick Kouri", "Captain Kouri", "Derrick"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มกลาง สุขุมและชัดเจน",
+      "personality": "นายทหารที่มีเหตุผล มีวินัยและให้ความสำคัญกับหน้าที่",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นระเบียบ สุภาพแต่เด็ดขาด ใช้ภาษาทหาร",
+      "default_emotion": "serious"
+    },
+    "arturo_jiminez": {
+      "name": "Doc",
+      "aliases": ["Arturo Jiminez", "Doc Jiminez", "Doctor Jiminez"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางนุ่ม สุภาพและอบอุ่น",
+      "personality": "แพทย์ประจำค่าย Militia มีความรู้และช่วยเหลือผู้อื่น",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจน สุภาพ ใช้น้ำเสียงปลอบโยน",
+      "default_emotion": "calm"
+    },
+    "james_weaver": {
+      "name": "Weaver",
+      "aliases": ["James Weaver", "Jim Weaver"],
+      "voice_description": "เสียงชายวัยกลางคน โทนกลางแหบ เป็นกันเองและขี้เล่น",
+      "personality": "นักวิทยาศาสตร์และผู้เชี่ยวชาญด้านวัตถุระเบิด มีความฉลาดและอารมณ์ขัน",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นกันเอง บางครั้งพูดเร็ว ชอบเล่นมุกและอธิบายเรื่องเทคนิค",
+      "default_emotion": "cheerful"
+    },
+    "lisa_jackson": {
+      "name": "Lisa",
+      "aliases": ["Lisa Jackson"],
+      "voice_description": "เสียงหญิงวัยรุ่น โทนกลางค่อนข้างใส มีความเปราะบาง",
+      "personality": "เด็กสาวผู้ผ่านเหตุการณ์สะเทือนใจ ค่อย ๆ แข็งแกร่งและเรียนรู้การเอาตัวรอด",
+      "voice_id": null,
+      "speaking_style": "พูดค่อนข้างเบา มีความลังเลเมื่อกลัว แต่มั่นใจขึ้นเมื่อเติบโต",
+      "default_emotion": "nervous"
+    },
+    "addison_walker": {
+      "name": "Addy",
+      "aliases": ["Addison Walker", "Addison"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางนุ่ม สุขุมและอบอุ่น",
+      "personality": "ผู้ดูแลทางการแพทย์ของ Lost Lake มีความเมตตาและอดทน",
+      "voice_id": null,
+      "speaking_style": "พูดนุ่มนวล ชัดเจน เป็นมืออาชีพและเห็นอกเห็นใจ",
+      "default_emotion": "compassionate"
+    },
+    "emmanuel_mendez": {
+      "name": "Manny",
+      "aliases": ["Emmanuel Mendez", "Emmanuel", "Mendez"],
+      "voice_description": "เสียงชายวัยหนุ่ม โทนกลางค่อนข้างสูง เป็นกันเองและกระฉับกระเฉง",
+      "personality": "ช่างซ่อมมอเตอร์ไซค์ มีความกระตือรือร้นและเป็นมิตร",
+      "voice_id": null,
+      "speaking_style": "พูดเร็วเล็กน้อย เป็นธรรมชาติและมีอารมณ์ขัน",
+      "default_emotion": "cheerful"
+    },
+    "iron_mike": {
+      "name": "Iron Mike",
+      "aliases": ["Mike", "Iron Mike Wilcox", "Michael Wilcox"],
+      "voice_description": "เสียงชายสูงวัย ทุ้มลึก แหบเล็กน้อย อบอุ่นและหนักแน่น",
+      "personality": "ผู้นำค่าย Lost Lake เชื่อในการอยู่ร่วมกันและหลีกเลี่ยงความรุนแรง",
+      "voice_id": null,
+      "speaking_style": "พูดสุขุม มีเหตุผล ใช้น้ำเสียงจริงใจและมีอำนาจ",
+      "default_emotion": "calm"
+    },
+    "rikki_patil": {
+      "name": "Rikki",
+      "aliases": ["Rikki Patil", "Rik"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางชัดเจน เป็นธรรมชาติ",
+      "personality": "สมาชิกคนสำคัญของ Lost Lake มีความสามารถด้านช่างและพึ่งพาตัวเอง",
+      "voice_id": null,
+      "speaking_style": "พูดตรง เป็นกันเอง มั่นใจและบางครั้งประชดประชัน",
+      "default_emotion": "confident"
+    },
+    "blair": {
+      "name": "Blair",
+      "aliases": [],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางชัดเจน",
+      "personality": "สมาชิกค่าย Lost Lake ทำงานด้านการค้าและจัดหาอุปกรณ์",
+      "voice_id": null,
+      "speaking_style": "พูดตรง กระชับ เป็นกันเอง",
+      "default_emotion": "neutral"
+    },
+    "rose_allen": {
+      "name": "Rose",
+      "aliases": ["Rose Allen"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางนุ่มแต่มีความแข็งกร้าว",
+      "personality": "ผู้รอดชีวิตใน Hot Springs ระมัดระวังและไม่ไว้ใจคนง่าย",
+      "voice_id": null,
+      "speaking_style": "พูดตรง ระมัดระวังและไม่ค่อยเปิดเผยความรู้สึก",
+      "default_emotion": "guarded"
+    },
+    "zanny_norman": {
+      "name": "Zanny",
+      "aliases": ["Zanny Norman"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางค่อนข้างทุ้ม แหบเล็กน้อย",
+      "personality": "สมาชิก Hot Springs ทำหน้าที่เกี่ยวกับงานซ่อมและบริการภายในค่าย",
+      "voice_id": null,
+      "speaking_style": "พูดสั้น ชัดเจน ไม่พูดเกินจำเป็น",
+      "default_emotion": "neutral"
+    },
+    "damon_reynolds": {
+      "name": "Damon",
+      "aliases": ["Damon Reynolds"],
+      "voice_description": "เสียงชายวัยหนุ่ม ทุ้มกลาง มั่นใจและกระด้างเล็กน้อย",
+      "personality": "พ่อค้าอาวุธในค่าย Copeland มองเรื่องธุรกิจเป็นหลัก",
+      "voice_id": null,
+      "speaking_style": "พูดตรง กระชับและต่อรองเก่ง",
+      "default_emotion": "confident"
+    },
+    "gopher": {
+      "name": "Gopher",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง แหบและหยาบแบบนักขี่มอเตอร์ไซค์",
+      "personality": "ผู้รอดชีวิตในค่าย Copeland ระมัดระวังและไม่ไว้ใจคนแปลกหน้า",
+      "voice_id": null,
+      "speaking_style": "พูดสั้น ตรงและเป็นกันเองแบบคนในค่าย",
+      "default_emotion": "neutral"
+    },
+    "randall": {
+      "name": "Randall",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มปานกลาง หยาบเล็กน้อย",
+      "personality": "ผู้รอดชีวิตในโลกหลังหายนะ",
+      "voice_id": null,
+      "speaking_style": "พูดตรง ๆ ไม่เป็นทางการ",
+      "default_emotion": "neutral"
+    },
+    "jezzy_bowman": {
+      "name": "Jezzy",
+      "aliases": ["Jezzy Bowman", "Bowman"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง กระฉับกระเฉงและแข็งแรง",
+      "personality": "ผู้รอดชีวิตในค่าย Copeland พึ่งพาตัวเองและระมัดระวัง",
+      "voice_id": null,
+      "speaking_style": "พูดตรง กระชับและมั่นใจ",
+      "default_emotion": "neutral"
+    },
+    "mitch": {
+      "name": "Mitch",
+      "aliases": ["Lost Lake Mitch"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "สมาชิก Lost Lake และผู้รอดชีวิตที่มีความระมัดระวัง",
+      "voice_id": null,
+      "speaking_style": "พูดสั้น ตรงประเด็น",
+      "default_emotion": "neutral"
+    },
+    "mitch_allen": {
+      "name": "Mitch Allen",
+      "aliases": ["Militia Mitch"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนทุ้มกลาง จริงจัง",
+      "personality": "สมาชิก Deschutes County Militia มีวินัยและเชื่อฟังสายบังคับบัญชา",
+      "voice_id": null,
+      "speaking_style": "พูดชัด เป็นระเบียบและมีลักษณะการพูดแบบทหาร",
+      "default_emotion": "serious"
+    },
+    "ava_bergstrom": {
+      "name": "Ava",
+      "aliases": ["Ava Bergstrom"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางชัดเจน สุขุม",
+      "personality": "สมาชิก Militia มีวินัยและให้ความสำคัญกับหน้าที่",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับ ตรงประเด็นและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "jacob_dangelo": {
+      "name": "Jacob",
+      "aliases": ["Jacob D'Angelo", "D'Angelo"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม ค่อนข้างนิ่ง",
+      "personality": "ทหาร Militia ปฏิบัติตามคำสั่งและมีความระมัดระวัง",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ สั้นและชัดเจน",
+      "default_emotion": "neutral"
+    },
+    "melinda_foster": {
+      "name": "Melinda",
+      "aliases": ["Melinda Foster", "Foster"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง สุขุมและหนักแน่น",
+      "personality": "สมาชิก Militia มีความรับผิดชอบและทำตามระเบียบ",
+      "voice_id": null,
+      "speaking_style": "พูดตรง มีความมั่นใจและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "rumi_ikeda": {
+      "name": "Rumi",
+      "aliases": ["Rumi Ikeda"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางค่อนข้างนุ่ม ชัดเจน",
+      "personality": "สมาชิก Militia มีความสุขุมและระมัดระวัง",
+      "voice_id": null,
+      "speaking_style": "พูดชัด สุภาพและเด็ดขาด",
+      "default_emotion": "neutral"
+    },
+    "ethan_ross": {
+      "name": "Ethan",
+      "aliases": ["Ethan Ross", "Ross"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม หนักแน่น",
+      "personality": "ทหาร Militia มีความเคร่งครัดและให้ความสำคัญกับคำสั่ง",
+      "voice_id": null,
+      "speaking_style": "พูดสั้น ชัดและมีน้ำเสียงแบบทหาร",
+      "default_emotion": "serious"
+    },
+    "wade_taylor": {
+      "name": "Wade",
+      "aliases": ["Wade Taylor", "Taylor"],
+      "voice_description": "เสียงชายวัยหนุ่ม โทนกลางค่อนข้างสูง กระตือรือร้น",
+      "personality": "สมาชิก Militia มีความหุนหันและต้องการการยอมรับ",
+      "voice_id": null,
+      "speaking_style": "พูดค่อนข้างเร็ว เป็นกันเองและบางครั้งไม่มั่นใจ",
+      "default_emotion": "neutral"
+    },
+    "justine_norwood": {
+      "name": "Justine",
+      "aliases": ["Justine Norwood"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางคมชัด มั่นใจ",
+      "personality": "สมาชิก Militia มีความเด็ดขาดและปฏิบัติตามหน้าที่",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับ ชัดเจน ไม่อ้อมค้อม",
+      "default_emotion": "serious"
+    },
+    "lucas_monroe": {
+      "name": "Lucas",
+      "aliases": ["Lucas Monroe", "Monroe"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม เป็นกันเอง",
+      "personality": "ช่างเครื่องผู้มีประสบการณ์และมีความเป็นมืออาชีพ",
+      "voice_id": null,
+      "speaking_style": "พูดสบาย ๆ ใช้คำศัพท์เกี่ยวกับเครื่องยนต์และมอเตอร์ไซค์",
+      "default_emotion": "neutral"
+    },
+    "caleb_tomlinson": {
+      "name": "Caleb",
+      "aliases": ["Caleb Tomlinson", "Tomlinson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง เป็นมิตรและมั่นใจ",
+      "personality": "ช่างเครื่องที่มีทักษะและชื่นชอบมอเตอร์ไซค์",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นกันเอง คล่องแคล่วและชอบคุยเรื่องเครื่องยนต์",
+      "default_emotion": "cheerful"
+    },
+    "jessup_teller": {
+      "name": "Jessup",
+      "aliases": ["Jessup Teller"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางค่อนข้างทุ้ม มีความเหนื่อยล้า",
+      "personality": "ผู้รอดชีวิตที่ต้องเผชิญกับความรุนแรงและความไม่แน่นอน",
+      "voice_id": null,
+      "speaking_style": "พูดระมัดระวัง มีความลังเลและไม่ค่อยไว้วางใจผู้อื่น",
+      "default_emotion": "guarded"
+    },
+    "leon": {
+      "name": "Leon",
+      "aliases": ["Leon Bounty"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางแหบ กระด้างและก้าวร้าว",
+      "personality": "อดีตสมาชิก Mongrels ที่เห็นแก่ตัวและพยายามเอาชีวิตรอด",
+      "voice_id": null,
+      "speaking_style": "พูดเร็ว กระวนกระวายและหวาดระแวง",
+      "default_emotion": "anxious"
+    },
+    "carlos": {
+      "name": "Carlos",
+      "aliases": ["Jessie", "Jesse Williamson", "Jesse"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มลึก แหบหยาบและน่ากลัว",
+      "personality": "อดีตสมาชิก Mongrels ผู้เต็มไปด้วยความแค้น ต้องการควบคุมและแก้แค้น",
+      "voice_id": null,
+      "speaking_style": "พูดช้า กดดัน มีน้ำเสียงคุกคามและระเบิดอารมณ์ได้",
+      "default_emotion": "menacing"
+    },
+    "two_dog": {
+      "name": "Two Dog",
+      "aliases": ["Two-Dog"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนต่ำ หยาบและกระด้าง",
+      "personality": "อาชญากรและผู้รอดชีวิตที่ใช้ความรุนแรง",
+      "voice_id": null,
+      "speaking_style": "พูดห้วน เสียงแข็งและชอบข่มขู่",
+      "default_emotion": "aggressive"
+    },
+    "red_riley": {
+      "name": "Red",
+      "aliases": ["Shane Red Riley", "Shane Riley"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม หยาบและกระด้าง",
+      "personality": "ผู้รอดชีวิตนอกกฎหมาย มีความดุดันและไม่ไว้วางใจใคร",
+      "voice_id": null,
+      "speaking_style": "พูดห้วน ตรงและก้าวร้าว",
+      "default_emotion": "aggressive"
+    },
+    "crystal_adkins": {
+      "name": "Crystal",
+      "aliases": ["Crystal Adkins"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลางคมชัด มีความแข็งกร้าว",
+      "personality": "ผู้รอดชีวิตและเป้าหมายของภารกิจล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดตรง มีความระแวงและพร้อมโต้ตอบ",
+      "default_emotion": "guarded"
+    },
+    "alvarez": {
+      "name": "Alvarez",
+      "aliases": [],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "อดีตสมาชิก Mongrels ที่มีความเกี่ยวข้องกับ Deacon และ Boozer",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติและตรงไปตรงมา",
+      "default_emotion": "neutral"
+    },
+    "abigail_butler": {
+      "name": "Abigail",
+      "aliases": ["Abigail Butler", "Abby"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติและไม่เป็นทางการ",
+      "default_emotion": "neutral"
+    },
+    "gabbi_butler": {
+      "name": "Gabbi",
+      "aliases": ["Gabbi Butler"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติและกระชับ",
+      "default_emotion": "neutral"
+    },
+    "maria_hewitt": {
+      "name": "Maria",
+      "aliases": ["Maria Hewitt"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Hot Springs",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและระมัดระวัง",
+      "default_emotion": "neutral"
+    },
+    "terry_mercer": {
+      "name": "Terry",
+      "aliases": ["Terry Mercer"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Hot Springs",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและตรงประเด็น",
+      "default_emotion": "neutral"
+    },
+    "cyrus": {
+      "name": "Cyrus",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนทุ้ม",
+      "personality": "สมาชิก Rippers ที่มีบทบาทในเหตุการณ์ของ Hot Springs",
+      "voice_id": null,
+      "speaking_style": "พูดแข็งกร้าวและจริงจัง",
+      "default_emotion": "serious"
+    },
+    "blair_lost_lake": {
+      "name": "Blair",
+      "aliases": [],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิกค่าย Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "lindsey_fuller": {
+      "name": "Lindsey",
+      "aliases": ["Lindsey Fuller"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและชัดเจน",
+      "default_emotion": "neutral"
+    },
+    "jeremy_givens": {
+      "name": "Jeremy",
+      "aliases": ["Jeremy Givens"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิกค่าย Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "joe_haslin": {
+      "name": "Joe",
+      "aliases": ["Joe Haslin"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและกระชับ",
+      "default_emotion": "neutral"
+    },
+    "dan_lane": {
+      "name": "Dan Lane",
+      "aliases": ["Dan", "Lane"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตใน Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและตรงประเด็น",
+      "default_emotion": "neutral"
+    },
+    "reed": {
+      "name": "Reed",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "buzz_simon": {
+      "name": "Buzz",
+      "aliases": ["Buzz Simon"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "ผู้รอดชีวิตใน Lost Lake",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและไม่เป็นทางการ",
+      "default_emotion": "neutral"
+    },
+    "torres": {
+      "name": "Torres",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "สมาชิก Lost Lake และเจ้าหน้าที่รักษาความปลอดภัย",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและจริงจัง",
+      "default_emotion": "serious"
+    },
+    "evans": {
+      "name": "Evans",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "สมาชิก Lost Lake ที่ทำงานด้านรักษาความปลอดภัย",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและจริงจัง",
+      "default_emotion": "serious"
+    },
+    "mullins": {
+      "name": "Mullins",
+      "aliases": ["Rick Mullins"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการและตรงประเด็น",
+      "default_emotion": "serious"
+    },
+    "glen_russell": {
+      "name": "Russell",
+      "aliases": ["Glen Russell"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและเป็นระเบียบ",
+      "default_emotion": "serious"
+    },
+    "ella_salazar": {
+      "name": "Ella",
+      "aliases": ["Ella Salazar"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดชัดและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "scott_thompson": {
+      "name": "Scott",
+      "aliases": ["Scott Thompson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและเป็นระเบียบ",
+      "default_emotion": "serious"
+    },
+    "vasquez": {
+      "name": "Vasquez",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "flores": {
+      "name": "Flores",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและชัดเจน",
+      "default_emotion": "serious"
+    },
+    "gomez": {
+      "name": "Gomez",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "hawkins": {
+      "name": "Hawkins",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "สมาชิก Deschutes County Militia",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและหนักแน่น",
+      "default_emotion": "serious"
+    },
+    "jessie_williamson": {
+      "name": "Jessie",
+      "aliases": ["Jessie Williamson", "Jesse Williamson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ ทุ้มลึกและแหบหยาบ",
+      "personality": "อดีตตัวตนของ Carlos และอดีตสมาชิก Mongrels",
+      "voice_id": null,
+      "speaking_style": "พูดช้าและกดดัน",
+      "default_emotion": "menacing"
+    },
+    "lee_anderson": {
+      "name": "Lee",
+      "aliases": ["Lee Anderson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "เป้าหมายภารกิจล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและระมัดระวัง",
+      "default_emotion": "guarded"
+    },
+    "joshua_harper": {
+      "name": "Harper",
+      "aliases": ["Joshua Harper", "Josh"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ผู้รอดชีวิตที่เกี่ยวข้องกับภารกิจล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดรวดเร็วและระมัดระวัง",
+      "default_emotion": "anxious"
+    },
+    "limbo": {
+      "name": "Limbo",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนต่ำ",
+      "personality": "เป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดห้วนและก้าวร้าว",
+      "default_emotion": "aggressive"
+    },
+    "erik_lynch": {
+      "name": "Lynch",
+      "aliases": ["Erik Lynch", "Erik"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "เป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและแข็งกร้าว",
+      "default_emotion": "aggressive"
+    },
+    "richard_marsdon": {
+      "name": "Marsdon",
+      "aliases": ["Richard Marsdon", "Richard"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดระมัดระวังและจริงจัง",
+      "default_emotion": "guarded"
+    },
+    "ro ach": {
+      "name": "Roach",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "ผู้รอดชีวิตที่เกี่ยวข้องกับภารกิจล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและระแวดระวัง",
+      "default_emotion": "guarded"
+    },
+    "ned_walker": {
+      "name": "Ned",
+      "aliases": ["Ned Walker"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและระมัดระวัง",
+      "default_emotion": "guarded"
+    },
+    "wheeler": {
+      "name": "Wheeler",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางทุ้ม",
+      "personality": "ผู้รอดชีวิตที่มีชื่ออยู่ในกลุ่มเป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและจริงจัง",
+      "default_emotion": "neutral"
+    },
+    "anderson": {
+      "name": "Anderson",
+      "aliases": ["NERO Anderson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางผ่านอุปกรณ์สื่อสาร",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการและรายงานสถานการณ์",
+      "default_emotion": "professional"
+    },
+    "nero_black": {
+      "name": "Black",
+      "aliases": ["J.R. Black", "NERO Black"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนทุ้มผ่านวิทยุ",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "booth": {
+      "name": "Booth",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลางผ่านวิทยุ",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจนและเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "cooper": {
+      "name": "Cooper",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "crawford": {
+      "name": "Crawford",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดชัดและเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "esposito": {
+      "name": "Esposito",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "fernandez": {
+      "name": "Fernandez",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและชัดเจน",
+      "default_emotion": "professional"
+    },
+    "franklin": {
+      "name": "Franklin",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "jenn": {
+      "name": "Jenn",
+      "aliases": [],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจนและเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "michael_kapersky": {
+      "name": "Kapersky",
+      "aliases": ["Michael J. Kapersky", "Michael Kapersky"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "บุคลากรที่เกี่ยวข้องกับ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "owens": {
+      "name": "Owens",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "patterson": {
+      "name": "Patterson",
+      "aliases": ["H.S. Patterson"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "บุคลากร NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการและชัดเจน",
+      "default_emotion": "professional"
+    },
+    "perkins": {
+      "name": "Perkins",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "eddy_reyes": {
+      "name": "Reyes",
+      "aliases": ["Eddy Reyes"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "บุคลากรที่เกี่ยวข้องกับ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "robinson": {
+      "name": "Robinson",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและจริงจัง",
+      "default_emotion": "serious"
+    },
+    "russo": {
+      "name": "Russo",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "shaw": {
+      "name": "Shaw",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "บุคลากร NERO",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจนและเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "simpson": {
+      "name": "Simpson",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดสั้นและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "martine_sinclair": {
+      "name": "Sinclair",
+      "aliases": ["Martine Sinclair"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "บุคลากรที่เกี่ยวข้องกับ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดชัดเจนและเป็นทางการ",
+      "default_emotion": "professional"
+    },
+    "stewart": {
+      "name": "Stewart",
+      "aliases": [],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "เจ้าหน้าที่ NERO",
+      "voice_id": null,
+      "speaking_style": "พูดกระชับและเป็นทางการ",
+      "default_emotion": "serious"
+    },
+    "eddy_apuna": {
+      "name": "Eddy Apuna",
+      "aliases": ["Eddy"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ตัวละครในประวัติของผู้รอดชีวิต",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "christy_copeland": {
+      "name": "Christy",
+      "aliases": ["Christy Copeland"],
+      "voice_description": "เสียงหญิง",
+      "personality": "บุคคลที่เกี่ยวข้องกับครอบครัวของ Mark Copeland",
+      "voice_id": null,
+      "speaking_style": "ไม่มีข้อมูลบทพูดเพียงพอ",
+      "default_emotion": "neutral"
+    },
+    "joany_gray": {
+      "name": "Joany",
+      "aliases": ["Joany Gray"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่ออยู่ในโลกของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "david_gorman": {
+      "name": "Gorman",
+      "aliases": ["David Gorman"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อใน Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "jersey_jim": {
+      "name": "Jersey Jim",
+      "aliases": ["Jim"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่เกี่ยวข้องกับโลกของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "karie_kouri": {
+      "name": "Karie",
+      "aliases": ["Karie Kouri"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่",
+      "personality": "บุคคลที่เกี่ยวข้องกับครอบครัว Kouri",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "joseph_miller": {
+      "name": "Joseph Miller",
+      "aliases": ["Joseph"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อในประวัติของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "margaret_miller": {
+      "name": "Margaret",
+      "aliases": ["Margaret Alice Miller"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อในประวัติของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "james_moore": {
+      "name": "Jim Moore",
+      "aliases": ["James Moore", "Jim"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อใน Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "henry_tucker": {
+      "name": "Henry",
+      "aliases": ["Henry Tucker"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่เกี่ยวข้องกับครอบครัว Tucker",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "emma_whitaker": {
+      "name": "Emma",
+      "aliases": ["Emma Whitaker"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่",
+      "personality": "ตัวละครที่เกี่ยวข้องกับครอบครัว Whitaker",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "krishna_patil": {
+      "name": "Krishna",
+      "aliases": ["Krishna Patil"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อในประวัติของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "tommy_strickland": {
+      "name": "Tommy",
+      "aliases": ["Tommy Strickland"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อใน Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "jack": {
+      "name": "Jack",
+      "aliases": ["Jack (Dog)"],
+      "voice_description": "เสียงสุนัข",
+      "personality": "สุนัขที่ปรากฏในโลกของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "เห่าและส่งเสียงตามธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "jessica": {
+      "name": "Jessica",
+      "aliases": ["Jess"],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ตัวละครหญิงที่มีชื่อใน Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "nicole": {
+      "name": "Nicole",
+      "aliases": [],
+      "voice_description": "เสียงหญิงวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ตัวละครหญิงที่มีชื่อใน Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "joseph_walker": {
+      "name": "Joseph Walker",
+      "aliases": ["Joseph"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่",
+      "personality": "ตัวละครที่มีชื่อในโลกของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "ned_walker": {
+      "name": "Ned",
+      "aliases": ["Ned Walker"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ตัวละครและเป้าหมายล่าค่าหัว",
+      "voice_id": null,
+      "speaking_style": "พูดตรงและระมัดระวัง",
+      "default_emotion": "guarded"
+    },
+    "joseph_miller": {
+      "name": "Joseph",
+      "aliases": ["Joseph Miller"],
+      "voice_description": "เสียงชายวัยผู้ใหญ่ โทนกลาง",
+      "personality": "ตัวละครในประวัติของ Days Gone",
+      "voice_id": null,
+      "speaking_style": "พูดเป็นธรรมชาติ",
+      "default_emotion": "neutral"
+    },
+    "nero_research_team": {
+      "name": "NERO Research Team",
+      "aliases": ["NERO Team"],
+      "voice_description": "เสียงชายหรือหญิงผ่านวิทยุและอุปกรณ์ป้องกัน",
+      "personality": "ทีมวิจัย NERO ที่ทำการเก็บข้อมูลเกี่ยวกับ Freakers",
+      "voice_id": null,
+      "speaking_style": "พูดศัพท์วิทยาศาสตร์และรายงานข้อมูล",
+      "default_emotion": "professional"
+    }
+  }
+}
