@@ -1,0 +1,11 @@
+PySide6
+python-dotenv
+mss
+numpy
+opencv-python
+sounddevice
+soundfile
+paddleocr
+paddlepaddle
+google-genai
+google-cloud-texttospeech
